@@ -69,4 +69,4 @@ swiftc -O -framework Cocoa -o 系统监测 系统监测.swift
 
 ## 许可
 
-未附加开源许可证，代码版权归作者所有。如需在其他项目中使用，请先提 issue 联系。
+[MIT License](LICENSE) © 2026 haishendaxian
